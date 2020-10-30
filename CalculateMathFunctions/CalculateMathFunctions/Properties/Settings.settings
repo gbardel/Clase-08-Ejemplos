@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CalculateMathFunctions.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CalculateMathFunctions_appservicesmathsasmx_BasicFunctions" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://appservicesmathsasmx.azurewebsites.net/BasicFunctions.asmx</Value>
+    </Setting>
+    <Setting Name="CalculateMathFunctions_appservicesmathssvclocalhost_ComplexFunctions" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49568/ComplexFunctions.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6446f5c0-0e8b-4498-a795-0ac5650e1d10" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://appservicesmathssvc.azurewebsites.net/ComplexFunctions.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ComplexFunctions.xsd" MetadataType="Schema" ID="799b77d6-b661-4773-9a20-de2aa9a2e12e" SourceId="1" SourceUrl="http://appservicesmathssvc.azurewebsites.net/ComplexFunctions.svc?xsd=xsd1" />
+    <MetadataFile FileName="ComplexFunctions.disco" MetadataType="Disco" ID="4559ef47-2c46-4539-a571-d26987e38f61" SourceId="1" SourceUrl="http://appservicesmathssvc.azurewebsites.net/ComplexFunctions.svc?disco" />
+    <MetadataFile FileName="ComplexFunctions.wsdl" MetadataType="Wsdl" ID="b7992807-af6b-406c-ade8-7224ac3fee5b" SourceId="1" SourceUrl="http://appservicesmathssvc.azurewebsites.net/ComplexFunctions.svc?wsdl" />
+    <MetadataFile FileName="ComplexFunctions1.xsd" MetadataType="Schema" ID="47e254d3-37b0-4a58-988f-dce761270d4e" SourceId="1" SourceUrl="http://appservicesmathssvc.azurewebsites.net/ComplexFunctions.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
